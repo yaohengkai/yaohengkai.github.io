@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Hengkai YAO
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Hengkai
+last_name: Yao
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,123 +23,188 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ocean Scientist
+
+bio: ''
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Qingdao University of Science and Technology
+    url: https://www.qust.edu.cn/
+  - name: Qingdao OAKFULL Water Purifier Co., Ltd 
+    url: https://oakfullwater.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:hengkai.yao@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/yaohengkai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yaohengkai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=ujcYod0AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0002-6277-0775
+  - icon: brands/instagram
+    url: https://www.instagram.com/yaohengkai/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Mesoscale Eddies
+  - AI Oceanography
+  - Advanced Material
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D in Physical Oceanography
+    institution: Ocean University of China
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2017-09-01
+    date_end: 2024-01-08
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Research on vertical structure and origin of eddies in Kuroshio-Oyashio Extension region_. Supervised by [Prof. Ping Chang](https://example.com), [Prof. Jian Lan](https://example.com), [Prof. Chao Ma](https://example.com) and [Prof. Dexing Wu](https://example.com). Presented papers at [Geophysical Research Letter](https://doi.org/10.1029/2023GL105642) and with the contribution being published in [BAMS](https://example.com).
+
+      Credit score: 84.96
+
+      Relevant Coursework:
+      - Academic Norms and Writing (98)
+      - Ocean Turbulence and Mixing (90)
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: Master in Physical Oceanography
+    institution: Ocean University of China
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2015-09-01
+    date_end: 2017-07-30
     summary: |
-      GPA: 4.0/4.0
+      Credit score: 87.41 (Top 13%)
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Relevant Coursework:
+      - Ocean Circulation (99)
+      - Data Analysis and Measurement in Physical Oceanography (97)
+  - area: Bachelor in Marine Science
+    institution: Ocean University of China
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2011-09-01
+    date_end: 2015-06-30
     summary: |
-      GPA: 3.9/4.0
+      Thesis on _Annual and interannual variations of water mass in Nordic seas_. Supervised by [Prof. Ling Du](https://example.com). Presented paper with the contribution being published in [BAMS](https://example.com).
 
-      Minored in Mathematics. President of AI Club.
+      Credit score: 81.93 (Top 38%)
+      
+      Relevant Coursework:
+      - Computational Methods (100)
+      - Probability Statistics (96)
+      - Engineering Environment Oceanography (95)
+
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Lecturer
+    company_name: Qingdao University of Science and Technology
+    company_url: 'https://www.qust.edu.cn/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-02-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Responsibilities include:
+      - Teaching in math and oceanography related classes
+      - Research in AI oceanography field
+      - Other projects ask by leaders
+  - position: Research Secretary Assistant
+    company_name: Ocean University of China
+    company_url: 'http://www.ouc.edu.cn'
+    company_logo: OUC
+    location: Northwest Pacific
+    date_start: '2015-09-01'
+    date_end: '2021-06-01'
+    summary: 
+      Participating in assisting major projects, general projects application, mid-term review, final defense, project funding management, and other related tasks supervised by Dr. Ma and Prof. Wu.
 
+  - position: On-Ship Scientist
+    company_name: IOCAS RV KEXUE 
+    company_url: 'http://www.qdio.cas.cn'
+    company_logo: IOCAS
+    location: Northwest Pacific
+    date_start: '2016-11-10'
+    date_end: '2017-01-02'
+    summary: 
+      We conducted a two-month comprehensive investigation in the tropical western Pacific aboard the research vessel KEXUE supervised by Prof. Wang.
+
+  - position: Visiting Scholar
+    company_name: Texas A&M University
+    company_url: 'https://www.tamu.edu'
+    company_logo: TAMU
+    location: College Station, TX
+    date_start: '2019-03-31'
+    date_end: '2021-03-31'
+    summary: 
+      Assisting in operating the high-resolution ocean-atmosphere coupled model R-CESM (Regional Community Earth System Model) in the Kuroshio Extension region (KE) supervised by Prof. Chang.
+
+  - position: Visiting Scholar
+    company_name: Laoshan Lab (QNLM)
+    company_url: 'http://www.qnlm.ac'
+    company_logo: QNLM
+    location: Qingdao, China
+    date_start: '2023-03-01'
+    date_end: '2023-07-31'
+    summary: 
+      Studying the linear instability of the Kuroshio-Oyashio Extension current circulation supervised by Prof. Jing.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Linux
         description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+        percent: 20
+        icon: devicon/linux
+      - name: Matlab
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        percent: 70
+        icon: devicon/matlab
+      - name: ChatGPT
         description: ''
-        percent: 85
-        icon: cloud
+        percent: 50
+        icon: chat-bubble-left
+      - name: Modeling
+        description: ''
+        percent: 70
+        icon: cube-transparent
+      - name: Statistics
+        description: ''
+        percent: 80
+        icon: presentation-chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        icon: camera
+      - name: 3D Printing
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        percent: 80
+        icon: square-3-stack-3d
 
 languages:
+  - name: Chinese
+    percent: 90
   - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +234,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Dr. Hengkai Yao is a lecturer of School of Mathmetica and Physics at the [Qingdao University of Science and Technology](https://www.qust.edu.cn). He got Ph.D of *Physical Oceanograpy* from [Ocean University of China](https://www.ouc.edu.cn). His research interests include mesoscale eddies, ocean modeling and AI oceanography. He is member of the [AI Oceanography group](https://oceanai.ac.cn), which develops big data in ocean, ocean simulation, and ocean prediction. He also teaches math related classes for freshman and graduate students.  
