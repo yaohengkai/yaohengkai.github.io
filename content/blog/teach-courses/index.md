@@ -11,6 +11,7 @@ tags:
   - Markdown
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
+draft: true
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
@@ -23,11 +24,11 @@ On this page, you'll find some examples of the types of technical content that c
 
 Here's an example of citing a publication using the cite shortcode:
 
-{{< cite page="/publications/preprint" view="citation" >}}
+<!-- {{< cite page="/publications/preprint" view="citation" >}} -->
 
 You can also use the default view by omitting the view parameter:
 
-{{< cite page="/publications/conference-paper" >}}
+<!-- {{< cite page="/publications/conference-paper" >}} -->
 
 ## Video
 
