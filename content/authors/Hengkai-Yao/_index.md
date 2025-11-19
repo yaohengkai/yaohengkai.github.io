@@ -57,7 +57,7 @@ interests:
   - Advanced Material
 
 education:
-  - area: Ph.D in Physical Oceanography
+  - area: Ph.D Physical Oceanography
     institution: Ocean University of China
     icon: "custom/OUC"
     date_start: 2017-09-01
@@ -69,14 +69,14 @@ education:
        text: 'Read Thesis'
        url: /uploads/2023_Yao_thesis.pdf
 
-  - area: Master in Physical Oceanography
+  - area: MS Physical Oceanography
     institution: Ocean University of China
     icon: "custom/OUC"
     date_start: 2015-09-01
     date_end: 2017-07-30
     summary: 
 
-  - area: Bachelor in Marine Science
+  - area: BS Marine Science
     institution: Ocean University of China
     icon: "custom/OUC"
     date_start: 2011-09-01
