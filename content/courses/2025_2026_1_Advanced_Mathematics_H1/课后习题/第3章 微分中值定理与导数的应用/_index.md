@@ -1,0 +1,8 @@
+---
+title: 第3章 微分中值定理与导数的应用
+weight: 3
+sidebar:
+  open: false
+---
+
+
